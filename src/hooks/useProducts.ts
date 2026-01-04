@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import { Product, ProductFormData } from '@/types/product';
-import { initialProducts } from '@/data/initialProducts';
+import { initialProducts } from "../data/initialProducts"
 
 export function useProducts() {
   const [products, setProducts] = useState<Product[]>(initialProducts);
