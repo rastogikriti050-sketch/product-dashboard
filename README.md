@@ -7,7 +7,7 @@ This application allows users to manage products efficiently with real-time sear
 
 ## 🚀 Live Demo
 
-https://project-gw5y2o19l-kritis-projects-4ab49a74.vercel.app
+https://project-rho-ashen-55.vercel.app/
 
 
 ---
